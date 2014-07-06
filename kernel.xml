@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="kernel/sony/msm8974" 	name="BlueEther/android_kernel_sony_msm8974" remote="gh" revision="dt2w-BluePimp" />
+<!--
+Branch names on BlueEther/android_kernel_sony_msm8974
+BluePimp 	PimpedKernel for togari 
+PimpedKernel	PimpedKernel fork
+cm-11.0		Stock CyanogenMod kernel fork
+dt2w		Stock CyanogenMod kernel fork with Double Tap 2 Wake
+new_dt2w	Stock CyanogenMod kernel fork with Double Tap 2 Wake - new for testing
+dt2w-BluePimp	DT2W for PimpedKernel
+-->
+</manifest>
